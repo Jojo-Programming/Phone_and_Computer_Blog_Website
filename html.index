@@ -104,17 +104,17 @@ Interactive Content: Engage in discussions, share your experiences, and learn fr
           <img src="images/pexels-cottonbro-studio-4324101.jpg" alt="">
         </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Online Power Yoga. </h3>
+          <div class="price">free</div>
+          <h3>All about phones and computers</h3>
         </div>
         </div>
         <div class="swiper-slider box">
          <div class="image">
-           <img src="images/indoorcycling.jpg" alt="">
+           <img src="images/iphone 13 pro max.jpg" alt="">
          </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Online Indoor Cycling Adventure.</h3>
+          <div class="price">$1000.99</div>
+          <h3>Iphone 13 pro.</h3>
          </div>
       </div>
       <div class="swiper-slider box">
@@ -122,26 +122,26 @@ Interactive Content: Engage in discussions, share your experiences, and learn fr
           <img src="images/pexels-victor-freitas-841130.jpg" alt="">
         </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Online Functional Fitness Bootcamp.</h3>
+          <div class="price">$1400.99</div>
+	  <h3>Galaxy s22 ultral.</h3>
         </div>
       </div>
       <div class="swiper-slider box">
         <div class="image">
-          <img src="images/selfdefence.jpg" alt="">
+          <img src="images/galaxy s24 ultral.jpg" alt="">
         </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Online Self-Defense Lessons</h3>
+          <div class="price">$2400.99</div>
+          <h3>Galaxy s24 ultral</h3>
         </div>
       </div>
       <div class="swiper-slider box">
         <div class="image">
-          <img src="images/kickboxing.jpg" alt="">
+          <img src="images/itel 5059.jpg" alt="">
         </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Kickboxing tutorials</h3>
+          <div class="price">$140.99</div>
+          <h3>Tecno camon 30</h3>
         </div>
       </div>
       <div class="swiper-slider box">
@@ -149,8 +149,8 @@ Interactive Content: Engage in discussions, share your experiences, and learn fr
           <img src="images/hip-extension-exercises-1.png" alt="">
         </div>
         <div class="content">
-          <div class="price">$40.99</div>
-          <h3>Hip Extension Exercise</h3>
+          <div class="price">$400.99</div>
+          <h3>hauwei p90 ultral</h3>
         </div>
       </div>
       
@@ -161,18 +161,18 @@ Interactive Content: Engage in discussions, share your experiences, and learn fr
   <!-- features section ends here -->
   <!-- schedule section starts here -->
     
-    <section class="schedule">
+    <section class="Computer">
       
-      <h1 class="heading"><span>our</span> schedule</h1>
+      <h1 class="heading"><span>our</span> Computer</h1>
       
       <div class="box-container">
         <div class="box">
           <div class="content">
-            <h3>Online Power Yoga</h3>
-            <p>Elevate your practice with Power Yoga! Ignite strength, flexibility, and inner peace in every flow. Join us on the mat for a dynamic journey to a revitalized you!</p>
+            <h3>model names/numbers</h3>
+            <p>Work with us and we help you find the best machine/computer for your use, be it a student, teacher, accountant or a programmer. We have all sorts of knowledge about what is best for your occupation!</p>
           </div>
           <div class="icons">
-            <span><i class="far fa-clock"></i> 5:30 PM</span>
+            <span><i class="Model names/numbers"></i> Enter</span>
             <span><i class="fad fa-calender-alt"></i> november 23, 2023</span>
           </div>
           <a href="#" class="btn">Join form $10</a>
